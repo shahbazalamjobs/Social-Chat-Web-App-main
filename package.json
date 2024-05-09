@@ -1,0 +1,22 @@
+{
+  "name": "chatsocial",
+  "version": "1.0.0",
+  "description": "A real time chat app with rooms to connect with people",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Sohail Ahmad",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "path": "^0.12.7",
+    "socket.io": "^4.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
