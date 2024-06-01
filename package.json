@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Sohail Ahmad",
+  "author": "Shahbaz Alam",
   "license": "MIT",
   "dependencies": {
     "express": "^4.19.2",
